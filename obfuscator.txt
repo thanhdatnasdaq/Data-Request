@@ -1,0 +1,7 @@
+cimb_wbag_m, 20221003, 20221130
+jpmorgan_nsed_m, 20211115, 20211231
+hkfe,qube-apac,apse02smbcalwebp34.int.smbc.nasdaqomx.com
+hkfe,sbasia-apac,apse02smbcalwebp28.int.smbc.nasdaqomx.com
+zce,qube-apac,apse02smbcalwebp34.int.smbc.nasdaqomx.com
+wbag,cimb-apac,aldo.int.smbc.nasdaqomx.com
+cimb_wbag_m, 20221003, 20221130

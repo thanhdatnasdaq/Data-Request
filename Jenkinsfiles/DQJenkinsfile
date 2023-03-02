@@ -1,0 +1,4 @@
+@Library('pipeline_datarequest_v2') _
+// Using Shared Jenkins Library
+// runs 'buildCrossMarketAlerts.groovy', located in cicd-pipeline repo
+dataRequest("Data-Request Test", "java11")
